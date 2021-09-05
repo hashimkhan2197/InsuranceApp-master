@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="523.534" height="577.581" viewBox="0 0 523.534 577.581">
+  <g id="Logo" transform="translate(-95.799 7.94)">
+    <g id="Group_66794" data-name="Group 66794" transform="translate(124 393.731)">
+      <text id="Ameny" transform="translate(1.741 142.91)" fill="#514e4e" font-size="132" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700"><tspan x="0" y="0">Ameny</tspan></text>
+      <circle id="Ellipse_2915" data-name="Ellipse 2915" cx="16.5" cy="16.5" r="16.5" transform="translate(431.741 112.91)" fill="#00b4d2"/>
+    </g>
+    <g id="AppIcon_and_Shadow" data-name="AppIcon and Shadow" transform="translate(208.119 96.817)">
+      <rect id="Shadow" width="223.534" height="265.721" transform="translate(37.681 45.244)" fill="#00b4d2" opacity="0.25"/>
+      <g id="AppIcon">
+        <path id="IconBg" d="M218.243,0C266.381,0,297.6,31.224,297.6,79.361V218.243c0,48.137-31.224,79.361-79.361,79.361H79.361C31.224,297.6,0,266.381,0,218.243V79.361C0,31.224,31.224,0,79.361,0Z" fill="#00b4d2"/>
+        <g id="Shapes" transform="translate(41.665 77.414)">
+          <ellipse id="Shape3" cx="71.195" cy="71.388" rx="71.195" ry="71.388" transform="translate(71.886 0)" fill="#fff" opacity="0.78"/>
+          <ellipse id="Shape2" cx="71.195" cy="71.388" rx="71.195" ry="71.388" transform="translate(0 0)" fill="#fff" opacity="0.77"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
